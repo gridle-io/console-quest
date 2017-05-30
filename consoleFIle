@@ -1,0 +1,20 @@
+if (typeof console !== "undefined") {
+	console.log("         mddhhhhhhddm         ")
+	console.log("      dhhhhhhhhhhhhhhhhd      ")
+	console.log("    dhhhhhhhhhhhhhhhhhhhhh    ")
+	console.log("  mhhhhhhhhhhhhhhhhhhhhhhhhd  ")
+	console.log(" dhhyssssssyhhhhhhysssyhhhhhd ")
+	console.log("mhhh         :yy:      :shhhhm")
+	console.log("dhhh   ohhhho    ohhhho  shhhh")
+	console.log("hhhh  :hhhhhh   :hhhhhh: /hhhh")
+	console.log("dhhh   ohhhho    ohhhho  shhhh")
+	console.log("mhhh         :sy:      :shhhhm")
+	console.log(" dhhyoooooosyhhhhyysssyhhhhhd ")
+	console.log("  mhhhhhhhhhhhhhhhhhhhhhhhhd  ")
+	console.log("    dhhhhhhhhhhhhhhhhhhhhh    ")
+	console.log("      dhhhhhhhhhhhhhhhhd      ")
+	console.log("         mddhhhhhhhdm         ")
+	console.log("Gridle | Team productivity");
+	// Morse code equivalent of LOVE WHAT YOU ARE LOOKING AT AND CURIOUS TO KNOW HOW IS IT BUILT, HAVE A LOOK AT HTTPS://GRIDLE.IO/CAREERS
+	console.log(".-.. --- ...- . / .-- .... .- - / -.-- --- ..- / .- .-. . / .-.. --- --- -.- .. -. --. / .- - / .- -. -.. / -.-. ..- .-. .. --- ..- ... / - --- / -.- -. --- .-- / .... --- .-- / .. ... / .. - / -... ..- .. .-.. - --..-- / .... .- ...- . / .- / .-.. --- --- -.- / .- - / .... - - .--. ... ---... -..-. -..-. --. .-. .. -.. .-.. . .-.-.- .. --- -..-. -.-. .- .-. . . .-. ...");
+}
